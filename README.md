@@ -1,4 +1,4 @@
-Desenvolvedor Backend .NET em formação, com base em C# e foco em APIs REST.
+Desenvolvedor Backend .NET em formação, com foco em C# e APIs REST.
 
 Atualmente estudo desenvolvimento backend com .NET e ASP.NET Core, aplicando os conceitos em projetos práticos.
 
