@@ -6,4 +6,4 @@ Stack: C#, .NET, ASP.NET Core, APIs REST, SQL, Git
 
 Objetivo: Evoluir como desenvolvedor backend e atuar em projetos reais.
 
-Idiomas: Japonês (JLPT N4)
+Idiomas: Japonês (JLPT N4), Ingles (Intermediario), Portugues (Nativo).
