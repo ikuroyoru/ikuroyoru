@@ -3,7 +3,7 @@
   <span style="flex-grow:1; height:1px; background-color:#FFFFFF;"></span>
 </h3>
 
-I am a Full Stack developer with experience in .NET, PostgreSQL, and Angular.  
+I am a Full Stack developer with knowledge in .NET, PostgreSQL, and Angular.  
 Always looking for opportunities to grow and contribute, feel free to check my resume:
 
 You can download my resume in your preferred language:
