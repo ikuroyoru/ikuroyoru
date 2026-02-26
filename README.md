@@ -56,3 +56,7 @@ Atuar como **Desenvolvedor Backend .NET**, aplicando meus conhecimentos em proje
 
 - LinkedIn: linkedin.com/in/gabryel-messana  
 - Email: messanagabryel@gmail.com  
+
+## 📊 Estatísticas
+
+![Metrics](./github-metrics.svg)
