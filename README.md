@@ -1,62 +1,45 @@
-<h1 align="center">👨‍💻 Gabryel Messana</h1>
+<h3 style="display:flex; align-items:center;">
+  👋 <span style="margin-right:10px;">About Me</span>
+  <span style="flex-grow:1; height:1px; background-color:#FFFFFF;"></span>
+</h3>
 
-<p align="center">
-Desenvolvedor Backend .NET em formação <br>
-Foco em C# • APIs REST • ASP.NET Core
-</p>
+I am a Full Stack developer with experience in .NET, PostgreSQL, and Angular.  
+Always looking for opportunities to grow and contribute, feel free to check my resume:
 
----
+You can download my resume in your preferred language:
 
-## 🚀 Sobre mim
-
-Atualmente estudo desenvolvimento backend com **.NET** e **ASP.NET Core**, aplicando os conceitos em projetos práticos e evoluindo constantemente minhas habilidades técnicas.
-
-Tenho foco em construção de APIs REST, persistência de dados e boas práticas de desenvolvimento.
+[![📄 Download Portuguese Resume](https://img.shields.io/badge/📄%20Portuguese_Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/user-attachments/files/25585659/Messana_Gabryel_Curriculo.pdf)
+[![📄 Download English Resume](https://img.shields.io/badge/📄%20English_Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/user-attachments/files/25585659/Messana_Gabryel_Curriculo.pdf)
 
 ---
 
-## 🛠️ Stack Principal
+<h3 style="display:flex; align-items:center;">
+  🌐 <span style="margin-right:10px;">Technologies</span>
+  <span style="flex-grow:1; height:1px; background-color:#FFFFFF;"></span>
+</h3>
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🖥️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<h3 style="display:flex; align-items:center;">
+  🌐 <span style="margin-right:10px;">Languages</span>
+  <span style="flex-grow:1; height:1px; background-color:#FFFFFF;"></span>
+</h3>
 
-## 🎯 Objetivo
-
-Atuar como **Desenvolvedor Backend .NET**, aplicando meus conhecimentos em projetos reais e evoluindo continuamente como profissional.
-
----
-
-## 🌎 Idiomas
-
-- 🇯🇵 Japonês — JLPT N4  
-- 🇺🇸 Inglês — Intermediário  
-- 🇧🇷 Português — Nativo  
-
----
-
-## 📄 Currículo
-
-📥 [Download Currículo - Desenvolvedor Jr](https://github.com/user-attachments/files/25583284/Curriculo.Desenvolvedor.Jr.pdf)
-
----
-
-## 📫 Contato
-
-- LinkedIn: linkedin.com/in/gabryel-messana  
-- Email: messanagabryel@gmail.com  
-
-## 📊 Estatísticas
-
-![Metrics](./github-metrics.svg)
+**` 🇧🇷 Portuguese – Native `**  
+**` 🇺🇸 English – Intermediate `**  
+**` 🇯🇵 Japanese – Basic `**
