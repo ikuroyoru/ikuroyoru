@@ -6,4 +6,8 @@ Stack: C#, .NET, ASP.NET Core, APIs REST, SQL, Git
 
 Objetivo: Evoluir como desenvolvedor backend e atuar em projetos reais.
 
-Idiomas: Japonês (JLPT N4), Ingles (Intermediario), Portugues (Nativo).
+Idiomas: Japonês (JLPT N4), Inglês (Intermediário), Português (Nativo).
+
+
+
+[Curriculo Desenvolvedor Jr.pdf](https://github.com/user-attachments/files/25583284/Curriculo.Desenvolvedor.Jr.pdf)
