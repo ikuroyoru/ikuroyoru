@@ -9,7 +9,7 @@ Always looking for opportunities to grow and contribute, feel free to check my r
 You can download my resume in your preferred language:
 
 [![📄 Download Portuguese Resume](https://img.shields.io/badge/📄%20Portuguese_Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/user-attachments/files/25585659/Messana_Gabryel_Curriculo.pdf)
-[![📄 Download English Resume](https://img.shields.io/badge/📄%20English_Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/user-attachments/files/25585659/Messana_Gabryel_Curriculo.pdf)
+[![📄 Download English Resume](https://img.shields.io/badge/📄%20English_Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/user-attachments/files/25586027/Messana_Gabryel_Resume.pdf)
 
 ---
 
